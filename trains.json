@@ -1,35 +1,35 @@
 {
    "trains":{
       "KandyExpress":{
-         "train_number":"185",
+         "train_number":"231",
          "departure":"08:35",
          "destination":"Kandy",
          "arrival":"10:35",
          "trip_time":"2h"
       },
       "Rejina":{
-         "train_number":"185",
+         "train_number":"182",
          "departure":"08:35",
          "destination":"Anuradhapura",
          "arrival":"14:35",
          "trip_time":"6h"
       },
       "UdarataManike":{
-         "train_number":"185",
+         "train_number":"154",
          "departure":"06:25",
          "destination":"Kandy",
          "arrival":"08:35",
          "trip_time":"2h 10mins"
       },
       "RuhunuKumari":{
-         "train_number":"185",
+         "train_number":"200",
          "departure":"08:35",
          "destination":"Kandy",
          "arrival":"12:35",
          "trip_time":"4h"
       },
       "NighMail":{
-         "train_number":"185",
+         "train_number":"201",
          "departure":"20:35",
          "destination":"Kandy",
          "arrival":"05:35",
